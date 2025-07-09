@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="70c31a32-ade1-4752-8db2-1706ac0f31ef" name="g_retriever">
+        <fileTransfer accessType="SFTP" host="connect.nmb1.seetacloud.com" port="45967" sshConfigId="56adb3a1-0fa9-4273-9800-1faa4f500011" sshConfig="root@connect.nmb1.seetacloud.com:45967 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
